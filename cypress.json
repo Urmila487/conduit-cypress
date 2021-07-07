@@ -1,0 +1,14 @@
+{
+    "baseUrl" : "https://react-redux.realworld.io",
+    "experimentalStudio": true,
+    "video" : true,
+    "screenshotFolder" : "cypress/videos/TestCases",
+    "reporter": "mochawesome",
+    "reporterOptions": {
+    "overwrite": false,
+    "html": false,
+    "json": true
+        
+      }
+      
+}
