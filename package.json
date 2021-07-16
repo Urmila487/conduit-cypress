@@ -11,6 +11,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@types/jest": "^26.0.24",
     "mochawesome": "^6.2.2"
   },
   "devDependencies": {
